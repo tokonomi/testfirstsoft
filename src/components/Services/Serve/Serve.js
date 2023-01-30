@@ -33,7 +33,7 @@ const Serve = (props) => {
                                 <div className={styles.service_cards}>
                                     <div className={styles.service_title}>
                                         <h2>{e.title}</h2>
-                                        <p>{e.price} <span>azn</span></p> 
+                                        <p>{e.price} <span>{e.havePrice ? 'azn' : ''}</span></p> 
                                     </div>
                                     <div className={styles.serve_description}>
                                         <p>{e.text}</p>

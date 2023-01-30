@@ -383,25 +383,28 @@
     "serveCards": [
         {
             "title": "Услуга подключение 1C программ",
-            "price": "50 ш.",
+            "price": "50 /ш.",
             "text": "",
-            "details": false
+            "details": false,
+            "havePrice": true
         },
         {
             "title": "Услуга подключение сервера",
-            "price": "150 ш.",
+            "price": "150 /ш.",
             "text": "",
-            "details": false
+            "details": false,
+            "havePrice": true
         },
         {
             "title": "1С: Бухгалтерия 8. Электронное оборудование для Азербайджана",
-            "price": "470 ш.",
+            "price": "470 /ш.",
             "text": "Будьте в курсе этапа оплаты по счетам без обращения в бухгалтерию, благодаря простой интеграции с 1С",
-            "details": false
+            "details": false,
+            "havePrice": true
         },
         {
             "title": "1С Предприятие",
-            "price": "65 ч.",
+            "price": "65 /ч.",
             "text": "Консультации специалистов Службы технической поддержки по «1С:Предприятию» по телефону и электронной почте",
             "details": [
                 {
@@ -410,61 +413,71 @@
                     "serve_list": false,
                     "sub_text_list": ["Прибытие программиста на место работы клиента по требованию", "Диагностика состоянии Информационной базы", "Архивировании копии базы для восстановление(backup)", "Обучение Информационной базы в групповом, индивидуальном, корпоративном и дистанционном формате", "Знакомство пользователей с обновлениями", "Консультация по телефону и электронной почте","Подключение дистанционно к рабочему месту пользователя и предоставление дополнительных услуг в оперативной форме"]
                 }
-            ]
+            ],
+            "havePrice": true
         },
         {
             "title": "Отчеты и операции программного обеспечения добавки и контроль",
-            "price": "0",
+            "price": "дог.",
             "text": "",
-            "details": false
+            "details": false,
+            "havePrice": false
         },
         {
             "title": "Настройка программных обеспечений",
-            "price": "450 ш.",
+            "price": "450 /ш.",
             "text": "",
-            "details": false
+            "details": false,
+            "havePrice": true
         },
         {
             "title": "Применение изменений по соответствию требованиям по заработной плате и кадровому учету",
-            "price": "0",
+            "price": "дог.",
             "text": "",
-            "details": false
+            "details": false,
+            "havePrice": false
         },
         {
             "title": "Подключение открытых линий в Bitrix24",
-            "price": "0",
+            "price": "дог.",
             "text": "",
-            "details": false
+            "details": false,
+            "havePrice": false
         },
         {
             "title": "Интеграция корпоративного портала с Bitrix24",
-            "price": "0",
+            "price": "дог.",
             "text": "",
-            "details": false
+            "details": false,
+            "havePrice": false
         },
         {
             "title": "Мобильное дополнение для 1C Управление нашей фирмой",
-            "price": "0",
+            "price": "дог",
             "text": "",
-            "details": false
+            "details": false,
+            "havePrice": false
         },
         {
             "title": "Анализ и тестирование 1С базы",
-            "price": "0",
+            "price": "дог",
             "text": "",
-            "details": false
+            "details": false,
+            "havePrice": true
         },
         {
             "title": "Бухгалтерский учет и управленческий учет, односторонний механизм обмена",
-            "price": "0",
+            "price": "дог",
             "text": "",
-            "details": false
+            "details": false,
+            "havePrice": false
         },
         {
             "title": "Установка и подключение онлайн кассы для 1С 7.7",
-            "price": "800 ш.",
+            "price": "800 /ш.",
             "text": "",
-            "details": false
+            "details": false,
+            "havePrice": true
         }
     ]
 }
