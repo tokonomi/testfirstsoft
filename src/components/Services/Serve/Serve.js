@@ -37,7 +37,7 @@ const Serve = (props) => {
                                     </div>
                                     <div className={styles.serve_description}>
                                         <p>{e.text}</p>
-                                        <button onClick={() => showModal(e)}>Подробнее</button>
+                                        {e.details ? <button onClick={() => showModal(e)}>Подробнее</button> : ''}
                                     </div>
                                 </div>
                             </div>
