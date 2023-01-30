@@ -463,7 +463,7 @@
             "price": "дог",
             "text": "",
             "details": false,
-            "havePrice": true
+            "havePrice": false
         },
         {
             "title": "Бухгалтерский учет и управленческий учет, односторонний механизм обмена",
