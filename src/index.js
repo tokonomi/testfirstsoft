@@ -3,7 +3,7 @@ import { BrowserRouter } from "react-router-dom";
 import App from "./components/App";
 
 createRoot(document.querySelector("#root")).render(
-    <BrowserRouter>
+    <HashRouter>
         <App/>
-    </BrowserRouter>
+    </HashRouter>
 )
